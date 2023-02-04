@@ -22,3 +22,12 @@ GetAllProduct function
 GetProduct function
 ![getSelectedProduct](https://user-images.githubusercontent.com/62758016/216766226-5dce83a2-b3c8-4457-a98b-97b16c0aa703.PNG)
 
+CreateProduct,
+![CreateProduct](https://user-images.githubusercontent.com/62758016/216766276-5fdd4a40-95ff-4040-8073-500532ce3436.PNG)
+![GetAllLatestProduct](https://user-images.githubusercontent.com/62758016/216766303-101a4cda-da8b-4965-88c4-ffb70c28ccae.PNG)
+
+UpdateProduct
+![UpdateProduct](https://user-images.githubusercontent.com/62758016/216766307-c2ba43a5-006b-490a-aba9-a673828b0f31.PNG)
+
+DeleteProduct
+![DeleteProduct](https://user-images.githubusercontent.com/62758016/216766332-852da394-9e14-4c5e-8527-2b861758937b.PNG)
