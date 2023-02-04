@@ -23,7 +23,7 @@
 - Open terminal in VS Code ->type "nodemon main.js'
 - Open Postman to test the REST API
 
-7)Here the result of REST API from Postman:
+7)Here all the result of REST API from Postman:
 
    a) GET action result
 
