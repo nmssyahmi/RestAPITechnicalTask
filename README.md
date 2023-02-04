@@ -1,7 +1,7 @@
 # RestAPITechnicalTask
 
 1) This code will show the REST API using JavaScript and NodeJS. The Postman software is used to display the result of the REST API.
-2) There are no database implementation and no user interface as this only to test CRUD of the REST API is working.
+2) There are no database implementation and no user interface as this only to test CRUD using REST API is working.
 
 3) Lists of function that available:
 - Get all the product data 
@@ -23,7 +23,7 @@
 - Open terminal in VS Code ->type "nodemon main.js'
 - Open Postman to test the REST API
 
-7)Here all the result of REST API from Postman:
+7)Here all the result of CRUD using REST API from Postman:
 
    a) GET action result
 
