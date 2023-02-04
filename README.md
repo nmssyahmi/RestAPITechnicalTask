@@ -47,5 +47,5 @@
    
    d)Delete action result
 
-   - Delete product data whic id="2-sample"
+   - Delete product data which id="2-sample"
    ![DeleteProduct](https://user-images.githubusercontent.com/62758016/216766332-852da394-9e14-4c5e-8527-2b861758937b.PNG)
