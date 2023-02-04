@@ -14,9 +14,9 @@
 
 5) List npm package that being used:
 
-   -nodemon
-   -express
-   -uuid
+   - nodemon
+   - express
+   - uuid
 
 6)How to run the code:
    
