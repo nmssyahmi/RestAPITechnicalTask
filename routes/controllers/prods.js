@@ -56,14 +56,15 @@ const updateProduct = (req, res) => {
 
 //DELETE
 const deleteProduct = (req, res) => {
-  const items = products.find((items) => items.id === req.params.id);
+  const { id } = req.params;
+  const items = products.find((items) => items.id === id);
   if (!items) {
     return res
       .status(404)
-      .json({ success: false, msg: `No person with the id:${req.params.id}` });
+      .json({ success: false, msg: `No person with the id:${id}` });
   }
-
   const _item = products.filter((items) => items.id !== req.params.id);
+  products = _item;
   return res.status(200).json({ success: true, data: _item });
 };
 
